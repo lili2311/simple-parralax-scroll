@@ -1,0 +1,35 @@
+body{
+  height: 2000px;
+  background: url(http://p1.pichost.me/i/54/1773091.jpg) top center no-repeat fixed;
+  background-size: cover;
+}
+h1 {
+  color: #fcfcfc;
+  margin:0 auto;
+  text-align:center;
+  padding: 1em;
+  font-family:Raleway;
+  font-weight:100;
+}
+#bubble1, #bubble2, #bubble3, #bubble4, #bubble5, #bubble6 {
+	width: 60px;
+  height: 100%;
+  position: fixed;   
+  background:url("http://fc04.deviantart.net/fs71/f/2013/225/b/2/transparent_bubble___orb_png_by_jssanda-d6i1zz4.png") bottom no-repeat;
+  background-size: 60px 60px;
+}
+#bubble2 {
+	left:100px;
+}
+#bubble3 {
+  left: 200px;
+}
+#bubble6 {
+  left: 400px;
+}
+#bubble4 {
+    left: 700px;
+}
+#bubble5 {
+  left: 260px;
+}
